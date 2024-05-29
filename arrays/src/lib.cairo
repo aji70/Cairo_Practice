@@ -14,7 +14,7 @@ fn main()  {
     // a.append(4);
 
     // let first_value = a.get(1).unwrap();
-    // println!("{}", first_value);
+    
 
 
     // let mut arr = ArrayTrait::<u128>::new();
